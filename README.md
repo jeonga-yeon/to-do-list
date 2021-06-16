@@ -32,9 +32,6 @@ JavaScript 공부
   
   ![사진4](https://user-images.githubusercontent.com/76932302/122084454-cdbce380-ce3c-11eb-99a6-9cb55874fec7.png)
 
-## My Blog
-
-
 ## 학습 사이트
 
 https://nomadcoders.co/javascript-for-beginners
